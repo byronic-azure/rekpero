@@ -29,4 +29,11 @@ Hi, I am Abhimanyu, passionate and self taught developer from India.
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyu121&layout=compact&theme=radical" />
 </a>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/abhimanyu121/count.svg" />
+</p>
 
+<p align="right">
+Github Cards by <a href="https://github.com/anuraghazra">anuraghazra</a>
+</p>
