@@ -5,7 +5,7 @@
 <br />
 <br />
 
-Hi, I am Abhimanyu, passionate and self taught developer from India.
+Hi, I am Abhimanyu Singh Shekhawat, passionate and self taught developer from India.
 
 - 🔭 I’m an active Gitcoiner [Abhimanyu121](https://gitcoin.co/abhimanyu121)
 - 🌱 I'm currently interning at The Linux Foundation.
