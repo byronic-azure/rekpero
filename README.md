@@ -5,11 +5,11 @@
 <br />
 <br />
 
-Hi, I am Abhimanyu Shekhawat, passionate and self taught developer from India.
+Hi, I am Mitrasish Mukherjee, passionate and self taught developer from India.
 
-- 🔭 I’m an active Gitcoiner [Abhimanyu121](https://gitcoin.co/abhimanyu121)
-- 🌱 I'm currently interning at The Linux Foundation.
-- 🌱 I'm a web3/ Blockchain dev as well as a flutter developer.
+- 🔭 I’m an active Gitcoiner [Rekpero](https://gitcoin.co/rekpero)
+- 🌱 I'm currently working in a startup as a Full-Stack Developer.
+- 🌱 I'm a web3/ Blockchain dev as well as a Full stack developer.
 
 
 <!--- 
@@ -23,15 +23,15 @@ Hi, I am Abhimanyu Shekhawat, passionate and self taught developer from India.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhimanyu121&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rekpero&show_icons=true&include_all_commits=true&theme=radical" alt="Rekpero's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyu121&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekpero&layout=compact&theme=radical" />
 </a>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/abhimanyu121/count.svg" />
+  <img src="https://profile-counter.glitch.me/rekpero/count.svg" />
 </p>
 
 <p align="right">
