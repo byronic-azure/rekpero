@@ -1,12 +1,30 @@
-### Hi there 👋
 
+<h1 align='center'>
+  Hi there 👋 I'm Mitrasish 👨‍💻
+</h1>
 
+<p align='center'>
+  A Blockchain and Frontend developer from India. 
+</p>
 
-<br />
-<br />
+<p align='center'>
+  📫 How to reach me: <a href='mailto:mmitrasish97@gmail.com'>mmitrasish97@gmail.com</a>
+</p>
 
-Hi, I am Mitrasish Mukherjee, passionate and self taught developer from India.
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/mmitrasish/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/rekpero">
+    <img src="https://img.shields.io/badge/github-%23222222.svg?&style=for-the-badge&logo=github&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/rekpero/">
+    <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
 
+---
 - 🔭 I’m an active Gitcoiner [Rekpero](https://gitcoin.co/rekpero)
 - 🤖 I'm currently working in a startup as a Full-Stack Developer.
 - 🌱 I'm a web3/ Blockchain dev as well as a Frontend developer.
