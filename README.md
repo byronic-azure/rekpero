@@ -8,8 +8,8 @@
 Hi, I am Mitrasish Mukherjee, passionate and self taught developer from India.
 
 - 🔭 I’m an active Gitcoiner [Rekpero](https://gitcoin.co/rekpero)
-- 🌱 I'm currently working in a startup as a Full-Stack Developer.
-- 🌱 I'm a web3/ Blockchain dev as well as a Full stack developer.
+- 🤖 I'm currently working in a startup as a Full-Stack Developer.
+- 🌱 I'm a web3/ Blockchain dev as well as a Frontend developer.
 
 
 <!--- 
