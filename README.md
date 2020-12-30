@@ -1,6 +1,6 @@
 
 <h1 align='center'>
-  Hi there 👋 I'm Mitrasish 👨‍💻
+  Hiya 👋 I'm Mitrasish 👨‍💻
 </h1>
 
 <p align='center'>
@@ -28,6 +28,8 @@
 </p>
 
 ---
+-	🐎 Co-Founder of [ArGo](https://argoapp.live).
+- 📍 Co-Founder, Frontend dev of [TerraMap](https://github.com/Terra-Maps).
 - 🔭 I’m an active Gitcoiner [Rekpero](https://gitcoin.co/rekpero)
 - 🤖 I'm currently working in a startup as a Full-Stack Developer.
 - 🌱 I'm a web3/ Blockchain dev as well as a Frontend developer.
